@@ -139,7 +139,6 @@ dmypy.json
 /input
 /models
 /output
-/notebooks
 
 #data files
 *.csv
