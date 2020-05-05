@@ -4,4 +4,5 @@ Assignment1 : Basic Python Concepts \
 Assignment2 : Basic Python Concepts\
 Assignment3: Functions \
 Assignment4: OOPs \
-Assignment5: 
+Assignment5: Exception Handling \
+Assignment6: Data Cleaning - Pandas 
